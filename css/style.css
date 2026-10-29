@@ -1,0 +1,190 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:18px;
+    color: #333;
+    background: #9d9b9d;
+    margin:0;
+    padding:0;
+}
+h1{
+    font-size:40px;
+    color:#2d3a8c;
+    margin: 20px 0 10px 0;
+
+}
+
+h3{
+    font-size:28px;
+    color: #4a5bc4;
+    margin:15px 0 10px 0;
+
+}
+section{
+    background: #fff;
+    width: 700px;
+    margin:40px auto;
+    padding:30px;
+
+}
+img{
+    display: block;
+    width: 100%;
+}
+.foto-perfil{
+    width:220px;
+    height: 300px;
+    margin: 20px;
+    border-radius: 50%;
+}
+
+
+
+nav{
+    background:#2d3a8c;
+    padding: 15px 20 px;
+    margin:0;
+}
+
+
+.menu-link{
+    display:inline-block;
+    font-size: 18px;
+    margin: 0 10px 0 0;
+    background: #4a4a4a;
+    padding: 10px 20px;
+    color:#fff;
+}
+
+p{
+    font-size: 18px;
+    margin:10px 0;
+}
+
+ul{
+    margin: 10px 0;
+    padding: 0 0 0 25px;
+
+}
+
+li{
+    font-size:18px;
+    margin: 8px 0;
+
+}
+ol{
+    margin:10px;
+    padding: 0 0 0 25px;
+
+}
+
+a{
+    color:#2d3a8c;
+    
+}
+
+footer{
+    background: #1f2756;
+    color: #ffffff;
+    font-size:16px;
+    margin: 40px 0 0 0;
+    padding: 25px 20px;
+
+}
+
+.rodape-texto{
+    color:#fff;
+    font-size: 16px;
+    margin: 5px 15px 5px 0;
+}
+.rodape-link{
+    display: inline-block;
+    color:#ffd166;
+    font-size: 16px;
+    margin: 5px 15px 5px 0;
+
+}
+
+.frase-destaque{
+    background: #ffd166;
+    color: #333333;
+    font-size: 24px;
+    margin:25px;
+    padding: 20px;
+
+}
+.cartao-habilidade{
+    display:inline-block;
+    width:180px;
+    background:#e8ecff;
+    color:#2d3a8c;
+    margin: 10px 10px 10px 0;
+    padding:15px;
+
+}
+.botao{
+    display:inline-block;
+    background:#2d3a8c;
+    color:#fff;
+    font-size: 18px;
+    margin: 10px 10px 10px 0;
+    padding: 12px 25px;
+
+}
+
+.botao-enviar{
+    display:block;
+    background: #e63946;
+    color: #fff;
+    font-size: 18px;
+    margin:20px 0 0 0;
+    padding: 14px 30px;
+
+}
+.formulario{
+    background:#e8ecff;
+    margin:20px 0;
+    padding:25px;
+
+}
+.campo-formulario{
+    display: block;
+    width:90%;
+    font-size: 16px;
+    color:#333;
+    background:#fff;
+    margin:8px 0 18px 0;
+    padding: 10px;
+
+}
+.rotulo-campo{
+    color: #2d3a8c;
+    font-size: 17px;
+    margin: 10px 0 0 0;
+
+}
+.lista-campo{
+    color: #2d3a8c;
+    font-size: 17px;
+    margin:10px 0 0 0;
+
+}
+.lista-contato{
+    margin:15px 0;
+    padding: 0 0 0 25px;
+}
+.texto-secundario{
+    color: #666;
+    font-size: 16px;
+    
+}
+
+#apresentacao{
+    background: #e8ecff;
+}
+#habilidades{
+    background: #fff;
+}
+#trajetoris{
+    background:
+}
+
